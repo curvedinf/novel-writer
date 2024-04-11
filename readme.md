@@ -1,6 +1,6 @@
 ## Novel-writer
 
-An automate LLM novelist.
+An automated LLM novelist.
 
 # Running
 
